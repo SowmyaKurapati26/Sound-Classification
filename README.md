@@ -76,9 +76,6 @@ python evaluate.py
 ---
 
 ## 📈 Results
-
-* **Training Accuracy:** \~67%
-* **Confusion Matrix:** Provided in the results notebook
 * Model performs best on easily distinguishable emotions like `anger`, `happiness`, and `sadness`.
 
 ---
@@ -98,4 +95,3 @@ For collaboration or feedback, feel free to reach out:
 
 ---
 Happy building 🎧🧠
-```
