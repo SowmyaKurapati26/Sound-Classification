@@ -34,9 +34,6 @@ Additional dataset reference:
 - Neural Network:
   - LSTM-based sequential model
   - Softmax output layer for emotion classification
-
-**Final Model Accuracy:** `67.00%`
-
 ---
 
 ## 📚 Libraries Used
@@ -48,30 +45,6 @@ Additional dataset reference:
 - `librosa`
 - `scikit-learn`
 - `numpy`
-
----
-
-## 🚀 How to Run
-
-### 1. Clone the repository
-### 2. Install dependencies
-### 3. Download the dataset
-
-* Download the TESS dataset from [Kaggle](https://www.kaggle.com/ejlok1/toronto-emotional-speech-set-tess)
-* Extract it inside the project directory (e.g., `./data/`)
-
-### 4. Run the training script
-
-```bash
-python train.py
-```
-
-### 5. Evaluate or predict
-
-```bash
-python evaluate.py
-# or use the notebook to explore predictions
-```
 
 ---
 
